@@ -98,7 +98,5 @@ document.addEventListener('DOMContentLoaded',()=>{
 
   }
   // new pagination()
-   window.page=new pagination()
-  
-  
+   window.page=new pagination() 
 })
